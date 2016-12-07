@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[Kweek]]></data>
+  <data name="en_project_author_name"><![CDATA[Image360,INC]]></data>
+  <data name="en_project_author_url"><![CDATA[http://www.goi360.com]]></data>
+
+
+  <data name="en_panogroup1342_title"><![CDATA[K-Town Night]]></data>
+
+  <data name="en_pano1337_title"><![CDATA[32St Broadway]]></data>
+  <data name="en_spotpicture2137displaywebvideovideoid"><![CDATA[nXbrpaDIvcY]]></data>
+  <data name="en_spotpolygon2604_tooltip"><![CDATA[Video]]></data>
+  <data name="en_spotpolygon2604displaywebvideovideoid"><![CDATA[nXbrpaDIvcY]]></data>
+  <data name="en_pano1338_title"><![CDATA[32nd Street 1]]></data>
+  <data name="en_pano1339_title"><![CDATA[32nd Street 2]]></data>
+  <data name="en_pano1340_title"><![CDATA[32St 5th Avenue]]></data>
+
+  <data name="en_panogroup211_title"><![CDATA[Manhattan]]></data>
+
+  <data name="en_pano2984_title"><![CDATA[On Now Lounge]]></data>
+  <data name="en_spotpicture3151openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/onnow/index.html]]></data>
+  <data name="en_spotpicture3152openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+  <data name="en_pano2981_title"><![CDATA[Barn Joo 35]]></data>
+  <data name="en_spotpicture3144openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/barnjoo/index.html]]></data>
+  <data name="en_spotpicture3145openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+  <data name="en_pano210_title"><![CDATA[Starry Night]]></data>
+  <data name="en_spotpicture1999openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/starrynight/index.html]]></data>
+  <data name="en_spotpicture2000openurlwebsiteurl"><![CDATA[http://www.pickachew.com/starry-night/]]></data>
+  <data name="en_pano203_title"><![CDATA[Sweet Churros New York]]></data>
+  <data name="en_spotpicture2028openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/churros/index.html]]></data>
+  <data name="en_spotpicture2029openurlwebsiteurl"><![CDATA[http://www.pickachew.com/sweet-churros-new-york/]]></data>
+  <data name="en_pano205_title"><![CDATA[Hee Korean BBQ ]]></data>
+  <data name="en_spotpicture2022openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/hee/index.html]]></data>
+  <data name="en_spotpicture2023openurlwebsiteurl"><![CDATA[http://www.pickachew.com/hee-korean-bbq-grill/]]></data>
+  <data name="en_pano206_title"><![CDATA[Roll & Katsu Kitchen]]></data>
+  <data name="en_spotpicture2017openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/rollandkatsu/index.html]]></data>
+  <data name="en_spotpicture2019openurlwebsiteurl"><![CDATA[http://www.pickachew.com/rollandkatsu/]]></data>
+  <data name="en_pano208_title"><![CDATA[Hell's Chicken]]></data>
+  <data name="en_spotpicture2011openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/hellschicken/index.html]]></data>
+  <data name="en_spotpicture2012openurlwebsiteurl"><![CDATA[http://www.pickachew.com/hells-chicken/]]></data>
+  <data name="en_pano209_title"><![CDATA[Hyo Dong Gak]]></data>
+  <data name="en_spotpicture2007openurlwebsiteurl"><![CDATA[http://www.pickachew.com/hyo-dong-gak/]]></data>
+  <data name="en_spotpicture2006openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/hyodonggak/index.html]]></data>
+  <data name="en_pano204_title"><![CDATA[Han Bat]]></data>
+  <data name="en_spotpicture1994openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/hanbat/index.html]]></data>
+  <data name="en_spotpicture1996openurlwebsiteurl"><![CDATA[http://www.pickachew.com/han-bat/]]></data>
+  <data name="en_pano899_title"><![CDATA[Dadam]]></data>
+  <data name="en_spotpicture1970openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/dadamtest2/index.html]]></data>
+  <data name="en_spotpicture1971openurlwebsiteurl"><![CDATA[http://www.pickachew.com/dadam]]></data>
+  <data name="en_pano2983_title"><![CDATA[Jongro BBQ]]></data>
+  <data name="en_spotpicture3140openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/jongro bbq/index.html]]></data>
+  <data name="en_spotpicture3141openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+  <data name="en_pano2985_title"><![CDATA[Pho Cha 32]]></data>
+  <data name="en_spotpicture3155openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/pocha/index.html]]></data>
+  <data name="en_spotpicture3156openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+  <data name="en_pano2982_title"><![CDATA[Gammeeok]]></data>
+  <data name="en_spotpicture3163openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/gammeeok/index.html]]></data>
+  <data name="en_spotpicture3164openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+  <data name="en_pano4351_title"><![CDATA[H-Mart New York]]></data>
+  <data name="en_spotpicture4358openurlwebsiteurl"><![CDATA[http://www.hmart.com/weekly-sales-and-events/]]></data>
+  <data name="en_spotpicture4359openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/hmartnewyork/index.html]]></data>
+  <data name="en_spotpicture4360openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+
+  <data name="en_panogroup222_title"><![CDATA[Queens]]></data>
+
+  <data name="en_pano3006_title"><![CDATA[Geo Si Gi Inc]]></data>
+  <data name="en_spotpicture3192openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/geosigi/index.html]]></data>
+  <data name="en_spotpicture3193openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+  <data name="en_pano3002_title"><![CDATA[Hae-In Sushi and Sashimi]]></data>
+  <data name="en_spotpicture3175openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/haein/index.html]]></data>
+  <data name="en_spotpicture3177openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+  <data name="en_pano3003_title"><![CDATA[Zu Rang Restaurant]]></data>
+  <data name="en_spotpicture3171openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/jurang/index.html]]></data>
+  <data name="en_spotpicture3172openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+  <data name="en_pano3008_title"><![CDATA[TANG Korean Restaurant]]></data>
+  <data name="en_spotpicture3188openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/tang/index.html]]></data>
+  <data name="en_spotpicture3189openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+  <data name="en_pano3214_title"><![CDATA[Coffee Monster]]></data>
+  <data name="en_spotpicture3226openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/coffeemonster/index.html]]></data>
+  <data name="en_spotpicture3227openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+  <data name="en_pano221_title"><![CDATA[Hahm Ji Bach]]></data>
+  <data name="en_spotpicture2034openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/hahmjibach/index.html]]></data>
+  <data name="en_spotpicture2035openurlwebsiteurl"><![CDATA[http://www.pickachew.com/hahm-ji-bach/]]></data>
+  <data name="en_pano4521_title"><![CDATA[Byungchun Soondae]]></data>
+  <data name="en_spotpicture4525openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/byungchun%20soondae/index.html]]></data>
+  <data name="en_spotpicture4526openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+  <data name="en_pano220_title"><![CDATA[San Soo Kap San 2]]></data>
+  <data name="en_spotpicture2042openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/sansoogapsan/index.html]]></data>
+  <data name="en_spotpicture2043openurlwebsiteurl"><![CDATA[http://www.pickachew.com/san-soo-kap-san-2/]]></data>
+  <data name="en_pano3004_title"><![CDATA[Bada Story]]></data>
+  <data name="en_spotpicture3180openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/badastory/index.html]]></data>
+  <data name="en_spotpicture3181openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+  <data name="en_pano3007_title"><![CDATA[Sik Gaek]]></data>
+  <data name="en_spotpicture3184openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/sikgaek/index.html]]></data>
+  <data name="en_spotpicture3185openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+  <data name="en_pano219_title"><![CDATA[Kono Chicken]]></data>
+  <data name="en_spotpicture2038openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/konochicken/index.html]]></data>
+  <data name="en_spotpicture2039openurlwebsiteurl"><![CDATA[http://www.pickachew.com/kono-chicken/]]></data>
+
+  <data name="en_panogroup2932_title"><![CDATA[New Jersey]]></data>
+
+  <data name="en_pano4519_title"><![CDATA[Sheeroo Cafe]]></data>
+  <data name="en_spotpicture4877openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/Sheeroo%20cafe/index.html]]></data>
+  <data name="en_spotpicture4878openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+  <data name="en_pano2996_title"><![CDATA[Poong Lim]]></data>
+  <data name="en_spotpicture3204openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/poonglim/index.html]]></data>
+  <data name="en_spotpicture3205openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+  <data name="en_pano2993_title"><![CDATA[Dae Ji Ssonday]]></data>
+  <data name="en_spotpicture3208openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/daejissonday/index.html]]></data>
+  <data name="en_spotpicture3209openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+  <data name="en_pano2995_title"><![CDATA[Han Sang Restaurant]]></data>
+  <data name="en_spotpicture3200openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/hansang/index.html]]></data>
+  <data name="en_spotpicture3201openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+  <data name="en_pano2994_title"><![CDATA[H-Mart Ridge Field]]></data>
+  <data name="en_spotpicture3211openurlwebsiteurl"><![CDATA[http://www.hmart.com/weekly-sales-and-events/]]></data>
+  <data name="en_spotpicture3212openurlwebsiteurl"><![CDATA[http://www.test.pickachew.com/wp-content/uploads/2016/pano/hmart/index.html]]></data>
+  <data name="en_spotpicture3213openurlwebsiteurl"><![CDATA[http://www.pickachew.com/korean]]></data>
+
+
+
+
+
+
+  <data name="en_alpo_sidebar_fullopenurlwebsiteurl"><![CDATA[http://kweeknyc.com]]></data>
+  <data name="en_socialShareclose_text"><![CDATA[Close]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_buttontooltip"><![CDATA[]]></data>
+  <data name="en_buttonopenurlwebsiteurl"><![CDATA[http://kweeknyc.com/signup/php/index.php]]></data>
+  <data name="en_button1tooltip"><![CDATA[]]></data>
+  <data name="en_button1openurlwebsiteurl"><![CDATA[https://www.facebook.com/Korean-Restaurant-Week-New-York-City-743723472434013/?fref=ts]]></data>
+  <data name="en_button2tooltip"><![CDATA[]]></data>
+  <data name="en_button2openurlwebsiteurl"><![CDATA[https://www.instagram.com/peekachews/]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+  <data name="en_pano1337_description"><![CDATA[<div><a href="http://www.pickachew.com/dadam" target="_blank"><font size="6" color="#eeeeee"><b style="background-color: rgb(0, 0, 0);">☞</b></font></a></div>]]></data>
+
+
+
+
+
+
+
+
+  <data name="en_pano210_description"><![CDATA[<font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Phone</b></span></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>(212) 868 - 3392</b></span></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b><br></b></span></font></div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Address</b></span></font></div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>28W 33rd Street, New York, NY10001</b></span></font></div><div><span style="background-color: rgb(0, 0, 0);"><b><font color="#eeeeee"><br></font></b></span></div><div><span style="background-color: rgb(0, 0, 0);"><b><font color="#eeeeee">Website</font></b></span></div><div><span style="background-color: rgb(0, 0, 0);"><b><a href="http://www.pickachew.com/starry-night" target="_blank"><font color="#f3f3f3">http://www.pickachew.com/starry-night/</font></a></b></span></div></div>]]></data>
+
+  <data name="en_pano203_description"><![CDATA[<font color="#eeeeee"><b style="background-color: rgb(0, 0, 0);">Phone</b></font><div><font color="#eeeeee"><b style="background-color: rgb(0, 0, 0);">(917) 847 - 1878</b></font></div><div><font color="#eeeeee"><b style="background-color: rgb(0, 0, 0);"><br></b></font><div><font color="#eeeeee"><b style="background-color: rgb(0, 0, 0);">Address</b></font></div><div><font color="#eeeeee"><b style="background-color: rgb(0, 0, 0);">11W 32nd Street, New York, NY10001</b></font></div><div><font color="#eeeeee"><b style="background-color: rgb(0, 0, 0);"><br></b></font></div><div><b><font color="#eeeeee" style="background-color: rgb(0, 0, 0);">Website</font></b></div><div><b><a href="http://www.pickachew.com/sweet-churros-new-york/" target="_blank"><font color="#eeeeee" style="background-color: rgb(0, 0, 0);">http://www.pickachew.com/sweet-churros-new-york/</font></a></b></div></div>]]></data>
+
+  <data name="en_pano205_description"><![CDATA[<font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Phone</b></span></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>(212) 206 - 1224</b></span></font></div><div><font color="#eeeeee"><b><br></b></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Address</b></span></font></div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>27th Street 6th Avenue, New York, NY10001</b></span></font></div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b><br></b></span></font></div><div><span style="background-color: rgb(0, 0, 0);"><b><font color="#eeeeee">Website</font></b></span></div><div><span style="background-color: rgb(0, 0, 0);"><b><a href="http://www.pickachew.com/hee-korean-bbq-grill/" target="_blank"><font color="#f3f3f3">http://www.pickachew.com/hee-korean-bbq-grill/</font></a></b></span></div></div>]]></data>
+
+  <data name="en_pano206_description"><![CDATA[<font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Phone</b></span></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>(646) 620 - 5992</b></span></font></div><div><font color="#eeeeee"><b><br></b></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Address</b></span></font></div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>11W 32nd Street, New York, NY10001</b></span></font></div><div><span style="background-color: rgb(0, 0, 0);"><b><font color="#eeeeee"><br></font></b></span></div><div><span style="background-color: rgb(0, 0, 0);"><b><font color="#eeeeee">Website</font></b></span></div><div><span style="background-color: rgb(0, 0, 0);"><b><a href="http://www.pickachew.com/rollandkatsu" target="_blank"><font color="#eeeeee">http://www.pickachew.com/rollandkatsu/</font></a></b></span></div></div><div><span style="background-color: rgb(0, 0, 0);"><b><br></b></span></div><div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>VR Mode</b></span></font></div><div><span style="background-color: rgb(0, 0, 0);"><b><a href="http://www.test.pickachew.com/wp-content/uploads/2016/pano/rollandkatsu/index.html" target="_blank"><font color="#eeeeee">http://www.test.pickachew.com/wp-content/uploads/2016/pano/rollandkatsu/index.html</font></a></b></span></div></div>]]></data>
+
+  <data name="en_pano208_description"><![CDATA[<font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Phone</b></span></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>(212) 757 - 1120</b></span></font></div><div><font color="#eeeeee"><b><br></b></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Address</b></span></font></div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>641 10th Avenue, New York, NY10036</b></span></font></div><div><span style="background-color: rgb(0, 0, 0);"><b><font color="#eeeeee"><br></font></b></span></div><div><span style="background-color: rgb(0, 0, 0);"><b><font color="#eeeeee">Website</font></b></span></div><div><span style="background-color: rgb(0, 0, 0);"><b><a href="http://www.pickachew.com/hells-chicken" target="_blank"><font color="#f3f3f3">http://www.pickachew.com/hells-chicken/</font></a></b></span></div></div>]]></data>
+
+  <data name="en_pano209_description"><![CDATA[<font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Phone</b></span></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>(212) 695 - 6674</b></span></font></div><div><font color="#eeeeee"><b><br></b></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Address</b></span></font></div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>51W 35th Street, New York, NY10001</b></span></font></div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b><br></b></span></font></div><div><span style="background-color: rgb(0, 0, 0);"><b><font color="#eeeeee">Website</font></b></span></div><div><span style="background-color: rgb(0, 0, 0);"><b><a href="http://www.pickachew.com/hyo-dong-gak" target="_blank"><font color="#f3f3f3">http://www.pickachew.com/hyo-dong-gak/</font></a></b></span></div></div>]]></data>
+
+  <data name="en_pano204_description"><![CDATA[<font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Phone</b></span></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>(212) 629 - 5588</b></span></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b><br></b></span></font></div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Address</b></span></font></div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>53W 35th Street, New York, NY10001</b></span></font></div><div><span style="background-color: rgb(0, 0, 0);"><b><font color="#eeeeee"><br></font></b></span></div><div><span style="background-color: rgb(0, 0, 0);"><b><font color="#eeeeee">Website</font></b></span></div><div><span style="background-color: rgb(0, 0, 0);"><b><a href="http://www.pickachew.com/han-bat/" target="_blank"><font color="#f3f3f3">http://www.pickachew.com/han-bat/</font></a></b></span></div></div>]]></data>
+
+  <data name="en_pano899_description"><![CDATA[<font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Phone</b></span></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>(646) 620 - 5992</b></span></font></div><div><font color="#eeeeee"><b><br></b></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Address</b></span></font></div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>11W 32nd Street, New York, NY10001</b></span></font></div><div><span style="background-color: rgb(0, 0, 0);"><b><font color="#eeeeee"><br></font></b></span></div><div><span style="background-color: rgb(0, 0, 0);"><b><font color="#eeeeee">Website</font></b></span></div><div><span style="background-color: rgb(0, 0, 0);"><b><a href="http://www.pickachew.com/dadam" target="_blank"><font color="#eeeeee">http://www.pickachew.com/dadam/</font></a></b></span></div></div><div><span style="background-color: rgb(0, 0, 0);"><b><br></b></span></div><div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>VR Mode</b></span></font></div><div><span style="background-color: rgb(0, 0, 0);"><b><a href="http://www.test.pickachew.com/wp-content/uploads/2016/pano/dadamtest2/index.html" target="_blank"><font color="#eeeeee">http://www.test.pickachew.com/wp-content/uploads/2016/pano/dadamtest2/index.html</font></a></b></span></div></div>]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+  <data name="en_pano221_description"><![CDATA[<font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Phone</b></span></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>(718) 460 - 9289</b></span></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b><br></b></span></font></div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Address</b></span></font></div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>40-11 149th Pl Flushing, New York, NY11361</b></span></font></div><div><span style="background-color: rgb(0, 0, 0);"><b><font color="#eeeeee"><br></font></b></span></div><div><span style="background-color: rgb(0, 0, 0);"><b><font color="#eeeeee">Website</font></b></span></div><div><span style="background-color: rgb(0, 0, 0);"><b><a href="http://www.pickachew.com/hahm-ji-bach/" target="_blank"><font color="#f3f3f3">http://www.pickachew.com/hahm-ji-bach/</font></a></b></span></div></div>]]></data>
+
+
+  <data name="en_pano220_description"><![CDATA[<font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Phone</b></span></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>(718) 445 - 4850</b></span></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b><br></b></span></font></div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Address</b></span></font></div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>171-10 Northern Blvd Flushing, New York, NY11358</b></span></font></div><div><span style="background-color: rgb(0, 0, 0);"><b><font color="#eeeeee"><br></font></b></span></div><div><span style="background-color: rgb(0, 0, 0);"><b><font color="#eeeeee">Website</font></b></span></div><div><span style="background-color: rgb(0, 0, 0);"><b><a href="http://www.pickachew.com/san-soo-kap-san-2/" target="_blank"><font color="#f3f3f3">http://www.pickachew.com/san-soo-kap-san-2/</font></a></b></span></div></div>]]></data>
+
+
+
+  <data name="en_pano219_description"><![CDATA[<font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Phone</b></span></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>(718) 358 - 8300</b></span></font><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b><br></b></span></font></div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>Address</b></span></font></div><div><font color="#eeeeee"><span style="background-color: rgb(0, 0, 0);"><b>171-02 Northern Blvd Flushing, New York, NY11358</b></span></font></div><div><span style="background-color: rgb(0, 0, 0);"><b><font color="#eeeeee"><br></font></b></span></div><div><span style="background-color: rgb(0, 0, 0);"><b><font color="#eeeeee">Website</font></b></span></div><div><span style="background-color: rgb(0, 0, 0);"><b><a href="http://www.pickachew.com/kono-chicken/" target="_blank"><font color="#f3f3f3">http://www.pickachew.com/kono-chicken/</font></a></b></span></div></div>]]></data>
+
+
+
+
+
+
+
+
+
+</krpano>
